@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.signo-message {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #4c4faf;
+}
+
+.signo {
+  color: #333;
+}
+
+.default-message {
+  font-size: 1.125rem;
+  color: #555;
+}
